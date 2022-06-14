@@ -66,7 +66,7 @@ class Comment(db.Model):
 
 
 # create database for the first time
-# db.create_all()
+db.create_all()
 
 
 def admin_only(f):

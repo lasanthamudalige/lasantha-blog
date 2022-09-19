@@ -1,2 +1,2 @@
-# lasantha-blog
+# Lasantha blog
 Blog built with Flask
